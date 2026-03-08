@@ -18,6 +18,16 @@ DiffFox is building AI-native GitHub workflows, starting with pull request revie
 | [`DiffFox`](https://github.com/DiffFox/DiffFox) | Main codebase for the GitHub App, Actions MVP, review logic, CI, and tests |
 | [`DiffFox_docs`](https://github.com/DiffFox/DiffFox_docs) | Product planning, roadmap, setup notes, and prototype discussion documents |
 
+## Recommended Pinned Repositories
+
+If you pin repositories on the organization homepage, the recommended order is:
+
+1. [`DiffFox`](https://github.com/DiffFox/DiffFox)
+2. [`DiffFox_docs`](https://github.com/DiffFox/DiffFox_docs)
+
+`DiffFox` should stay first because it is the main product repository.
+`DiffFox_docs` should stay second because it gives planning and onboarding context.
+
 ## Current Stage
 
 DiffFox has already validated the first GitHub Actions MVP and is now moving toward a reusable GitHub App path with:
